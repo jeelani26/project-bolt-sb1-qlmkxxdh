@@ -10,7 +10,7 @@ import ammuImage4 from '../assets/AMMU4.jpg'; // Fourth picture
 const milestones = [
   {
     title: 'A Father\'s Pride', // Updated Title
-    description: 'The Best Daughter in the world He will be so Proud of you for sure He might not always say it out loud, but you can see it in his eyes. You’re his biggest pride. He’s watched you grow up, and still stand strong, and so yeah that makes him so proud, No matter how old you get, you’ll always be his little girl .', // Updated Description Prompt
+    description: 'You really are the best daughter in the world. He’s so proud of you even if he doesn’t always say it, you can just see it in his eyes. You’ve grown up so much, and still stayed strong through everything. That’s what makes him proud. No matter how old you get, you’ll always be his little girl.', // Updated Description Prompt
     imageUrl: ammuImage2, // Assign Father picture
   },
   {
@@ -19,13 +19,13 @@ const milestones = [
     imageUrl: ammuImage1, // Assign Mother picture
   },
   {
-    title: 'The Best Sister(abadham, as a little brother’s team)', // Updated Title
+    title: 'The Best Older Sister(abadham, as a little brother’s team)', // Updated Title
     description: ' He might tease you or act stubborn sometimes, but deep down, he looks up to you more than he’ll ever admit. You’re his example, his role model, and the person he quietly learns from, To be frank anuokonta vadu kuda na laga tayar avali ani you know na how good i am just kidding i want him to protect you from everything he will for sure nan kuda minchipovali ala grow avali', // Updated Description Prompt
     imageUrl: ammuImage3, // Assign Brother picture
   },
   {
     title: 'My Fav', // EDIT Title for 4th card
-    description: '[Describe the moment or feeling this picture captures...]', // EDIT Description for 4th card
+    description: 'Fav still? A big yes! I don’t even know why I’m always stuck to you(Actually I Know). I know I annoy you not sometimes, but most of the time — just so you don’t forget this crazy fellow in your life!Just want to say thank you so much for being in my life — you’re always special to me! You’re doing better than you think. You’re worth every bit of effort, and you don’t have to have it all figured out right now. Seriously, you’re doing great compared to the past, and as always, I’m proud of you. Never ever forget who you are and what you are. No worries — I’ll always remind you till the end of the day how stupid you are!', // EDIT Description for 4th card
     imageUrl: ammuImage4, // Assign 4th picture
   }
 ];

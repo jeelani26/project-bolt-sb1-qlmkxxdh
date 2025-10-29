@@ -33,25 +33,24 @@ export function MessageSection() {
 
             <div className="space-y-6 text-slate-600 leading-relaxed text-base md:text-lg">
               <p>
-                [Write your heartfelt message here. This is your space to express everything Ammu means to you -
-                the memories you cherish, the qualities you admire, the laughter you've shared, and the incredible
-                person she is.]
+                Happy Birthday Ammu,
+                Nik Appude 19 Antey Nake shocking ga undhi i thought you are 18 now But yeah 19(Auntie)!
+                Ni gurinchi kothaga em ledhu chpadaniki 4 to 5 Years nunchi vintune unav na sodhi elantivi ee year kuda vinesei em undhiii,
+                Vakapppudu nen nik guide chesthu oche vadni eppudu nuv chesthunav senior antu chepukuntu Ala ani i am not dumb as you think koni sarlu kaval ani ochi information adugutha conversation start kosam koni sarlu nijangane ostha ee majya nijagane osthuna le adhi vere vishyam! Ninu gelike time kuda undatledhu ee CSE1 vala!But ni speed chusthunte nak agali ani ledhuu adhokaroj pakka i will catch up to you in studies! School lo kuda ela unte bagunde nik competition ga topper batch veskoni show dhobali ana asha undedhi asha lane miligipoindhi appudu peaks lo badhakam undedhi le but yeah by god's luck corona pass inam! Main point ke ralekapothuna telsa nuv akkada thitesthav amo ani last year love you ina ana esari type cheyali antene pack ithuna aa impact maintain chesthunav telsa ala ani chetu akabaku na limits lo nen untuna anthey nitho bayapadi kadh sareyna(Bayaperthuna ani mathram asal anukoku)Just kidding
+                Nen Anali anukonte second petadhu nuv block cheyali antey second petadhu anthey theda mana edharki! avani pakkana perthe Just listen life lo entha stress una depressed ga una problem una ee fellow appudaina available ga untadu vindaniki solve cheyadaniki nik kantu ochi nuv matladav adhe minus point nene ochi adagali! but adhokati feel free i am not a new person to tell all this right!? eppudu em levu le nuv ochi nak chpadaniki anukuntuna nen ithey! everything is going well in our lyfs stress tapa adhi kuda you will overcome!entha matladi challa rojulu ithundhi nuv ala anukontovu evani cringe oo nibba la talking enti edu ani but in my perceptive i feel so much free,to be frank still i feel like that!And still you are the only person i freely talk like this,
+                You changed me a lot, Ammu — a lot. Even though you didn’t do anything, thank you. What I am now is partly because of you. For some reason, I feel relieved sometimes… I’m not like others.I hope the bond we share never fades. You were 13 when we met, and now you’re 19 (Auntie vibes, haha). No matter what circumstances we faced, we stayed together — and for that, a big thanks. You only left in my life(Ardham chesko ega explain cheyalen duram petesa andharni touch lo lekunda simple ga chpli antey just chpthuna nik) Antey frnd ana enemy ana nuvve nak!
               </p>
 
               <p>
-                [Share specific moments, inside jokes, or the ways she has touched your life. Make it personal,
-                warm, and filled with love.]
-              </p>
-
-              <p>
-                [Express your birthday wishes and hopes for her future. Let her know how much she is valued
-                and appreciated.]
+                Kochem limit nunchi bytaki ostha Love you!
+                Vaka Chinna Letter type Elantivi birthday ani chepi ani matladesthe better oka excuse(Hehe)Normal days lo ela 
+matladam kabatiii!
               </p>
             </div>
 
             <p className="text-slate-700 leading-relaxed text-lg md:text-xl font-serif italic mt-8 text-right">
               With all my love,<br />
-              [Your Name]
+              Jeelani/Your Headache
             </p>
           </div>
 
@@ -66,7 +65,7 @@ export function MessageSection() {
 
         <div className="text-center mt-8">
           <p className="text-slate-500 italic text-sm">
-            Replace the placeholder text with your personal message
+            
           </p>
         </div>
       </div>
